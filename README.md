@@ -1,16 +1,5 @@
 # logica_scavenger_hunt_frontend
 
-A scavenger hunt with NFC's
+A scavenger hunt with NFC's. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The idea is to conduct a scavenger hunt like geocaching, except the NFC's contain a key so that the user may register it.
